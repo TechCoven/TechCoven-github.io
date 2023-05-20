@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
-description: null
-image: null
-author: null
-show_tile: false
+landing-title: 'Hi, my name is Victor'
+description: 'true'
+image: 'true'
+author: 'Victor'
+show_tile: 'true'
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Hello, I am a project manager with years of experience leading successful projects across various industries. My expertise lies in managing complex projects, ensuring timely delivery, and exceeding client expectations. I believe in a collaborative approach to project management, where all stakeholders are involved in the decision-making process. I am skilled in identifying project risks and developing mitigation strategies to ensure project success.
